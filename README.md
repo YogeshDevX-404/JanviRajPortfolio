@@ -148,4 +148,4 @@ This project is intended for personal portfolio and educational purposes.
 
 ---
 
-**Designed & Developed with ❤️ for Janvi Raj.**
+**Designed & Developed with ❤️ for Janvi Raj. Collab with YogeshDevX**
